@@ -1,0 +1,6 @@
+Blog
+User: jonathanb
+email:jonathansbsp@gmail.com
+senha: sophia@2012
+
+Acesso blog: http://blog-django-py-fiap-jonathanb.apps.na46.prod.nextcle.com/post/5/
