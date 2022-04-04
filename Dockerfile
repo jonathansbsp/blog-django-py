@@ -20,6 +20,6 @@ ENV S2I_SCRIPTS_PATH=/usr/libexec/s2i \
 
 RUN /tmp/scripts/assemble
 
-RUN echo "Hello from RM342063-Jonathan Bezerra" > /var/www/html/index.html
+RUN echo "Hello from Grupo 9 by:RM342063-Jonathan Bezerra" > /var/www/html/index.html
 
 CMD [ "/tmp/scripts/run" ]
